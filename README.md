@@ -12,7 +12,7 @@ Super speed? Slowed down? Stuck in place? You guessed it — *just roll with it.
 ---
 
 
-Game design & Code by **Samuel Wijaya**  
+Game Design & Code by **Samuel Wijaya**  
 Made for the *“Roll With It”* Game Jam (2025)
 
 ---
