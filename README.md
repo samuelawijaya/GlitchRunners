@@ -1,4 +1,4 @@
-# 🌀 Glitchrunners [Play on itch.io](https://gygabyte.itch.io/glitchrunners)
+# 🌀 GlitchRunners [Play on itch.io](https://gygabyte.itch.io/glitchrunners)
 
 **Glitchrunners** is a fast-paced 2-player racing brawler inspired by *SpeedRunners* — made in ~12 hours for a game jam with the theme **“Roll With It”**  
 Every match is chaos: random crystals grant power-ups or disasters, forcing you to adapt on the fly.  
