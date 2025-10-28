@@ -6,8 +6,7 @@ Super speed? Slowed down? Stuck in place? You guessed it — *just roll with it.
 
 ---
 
-## 🧠 Built With
-- **Unity Engine (C#)**
+## Built With **Unity Engine (C#)**
   
 ---
 
